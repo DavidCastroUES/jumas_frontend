@@ -1,0 +1,89 @@
+.boton-alert-eliminar {
+    background-color: #ff0000 !important;
+    color: #ffffff !important;
+    box-shadow: none !important;
+    font-weight:bold !important;
+    /* box-shadow: #e68181!important;
+    box-shadow: none !important;
+    border-color: #e68181 !important; */
+  }
+  .boton-alert-ok-adverntencia{
+    background-color: #f7b54b !important;
+    box-shadow: none !important;
+    font-weight:bold !important;
+  }
+  .boton-alert-ok{
+    background-color: #007BFF !important;
+    box-shadow: none !important;
+    font-weight:bold !important;
+  }
+  .boton-alert-cancelar {
+    font-weight:500 !important;
+  }
+
+.tabla-categoria-cliente{
+  margin-left: 20px !important;
+}
+
+  .tarjeta-encabezado {
+    background-color: white !important;
+    /* margin: 10px !important; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    width: 100% !important;
+    
+    /* Agrega cualquier otro estilo adicional que desees */
+  }
+ 
+  .tamaño-boton {
+    width: 120px;
+  }
+
+  .tamaño-nav-clienteboton {
+    width: 130px;
+  }
+
+
+  .categoria-cliente-input{
+    margin-right: 3%;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+  }
+
+  .categoria-cliente-boton{
+    width: 30%;
+  }
+
+  .categori-cliete-span{
+    color: rgb(3, 18, 25);
+    border-top-right-radius: 0%;
+    border-end-end-radius: 0%;
+  }
+  .tabla-fila-seleccionada {
+    background-color: #dbdddd !important; /* Cambia el color de fondo a tu preferencia */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    /* margin-left: 0; */
+  }
+
+  #tabla-fila-seleccionada td:last-child {
+    border-right: none;
+  }
+
+  td {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  }
+
+  .cliente-barra-nav-form{
+    margin-left: 1%;
+  }
+ 
+  .text-left {
+    /* text-align: left !important; */
+    text-align-last: left !important;
+     height: 60px !important; /*con esta medida indicamos que los elementos dentro del div se distruyan en el 70% de su tamaño original */
+  }
+
+  .ancho-text-input{
+    height: 50% !important; /* Alto de la caja de texto */
+    border: 1px solid #afafaf !important;;
+    /* font-size: 12px !important; */
+  }
